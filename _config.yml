@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "MalteAnalytics"
 title_separator          : "-"
 name                     : &name "Malte Thesenvitz"
-description              : &description "A sports analytics blog"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "A Sports Analytics Blog"
+url                      : https://mthesen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mthesen/mthesen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Malte Thesenvitz"
   avatar           : "profile.png"
-  bio              : "Former college soccer player gone data"
+  bio              : "Love what you do; do what you love."
   location         : "Seattle, US"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "malte.thesenvitz@web.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/maltethesenvitz"
+  linkedin         : "maltethesenvitz"
   orcid            : 
   pinterest        :
   soundcloud       :
