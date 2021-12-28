@@ -11,32 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Seattle University University, June 2020
+* MBA, Seattle University, 2021
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Redapt Inc. – Advanced Analytics Intern
+  * Used Microsoft Azure Platform for ETL, Data Modelling, Engineering, and Visualization
+  * Worked with Python, Pandas, T-SQL, PySpark, Databricks, & Power BI to get actionable insights from data
+  * Implemented time series forecasting and machine learning models with ML Studio
+  * Created technical tutorials and marketing web content, including posts, articles, pages, videos, and animated GIFs
+  * Supervisor: Lev Selector
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* VIP Hanse Touring – Logistical Operation Agent
+  * Facilitated day-to-day operations at Germany’s largest cruise ship terminal
+  * Data analysis and reporting for bottleneck resource throughput rates and efficiencies
+  * Assisted in food and supply restocking for entire cruise ships (3000+ passengers)
+
+* OZ Rostock - Sports Journalist
+  * Wrote and modified sports articles for newspaper with daily circulation of 175,000+ copies
+  * Data analysis and reporting of sports statistics and databases to write articles
+
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
+* Coding Languages
+  * Python
+  * T-SQL
+  * DAX
+  * PySpark
+* Data Analysis
+  * Data Engineering
+  * Visualization & Presentation
+  * Advanced Excel & Power Bi
   * Sub-skill 2.3
-* Skill 3
+* Data Modeling
+  * Relational DB Theory
+  * Star Schemas
 
-Publications
+<!GitHub
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -52,8 +67,9 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>   !>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Volunteered as Soccer Coach at Peter Fewing Soccer Camps
+* Trained and oversaw more than 100 children over numerous week long overnight soccer camps
