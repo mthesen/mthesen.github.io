@@ -43,10 +43,9 @@ Skills
   * DAX
   * PySpark
 * Data Analysis
-  * Data Engineering
+  * Data Engineering with Pandas
   * Visualization & Presentation
   * Advanced Excel & Power Bi
-  * Sub-skill 2.3
 * Data Modeling
   * Relational DB Theory
   * Star Schemas
