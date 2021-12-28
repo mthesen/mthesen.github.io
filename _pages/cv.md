@@ -51,9 +51,11 @@ Skills
   * Relational DB Theory
   * Star Schemas
 
-<GitHub commented out this entire section>
+<!---
+
+GitHub commented out this entire section
 <======>
- < <ul>{% for post in site.publications %}>
+ <ul>{% for post in site.publications %}>
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -68,7 +70,7 @@ Skills
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>   >
-  
+-->
 Service and leadership
 ======
 * Volunteered as Soccer Coach at Peter Fewing Soccer Camps
