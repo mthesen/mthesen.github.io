@@ -84,8 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "Love what you do; do what you love."
   location         : "Seattle, US"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Redapt Inc."
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "malte.thesenvitz@web.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
