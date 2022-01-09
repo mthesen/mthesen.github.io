@@ -12,12 +12,13 @@ redirect_from:
 Education
 ======
 * B.S. in Physics, Seattle University University, June 2020
+  * GPA: 3.7
 * MBA, Seattle University, 2021
-
+  * GPA: 3.9
 
 Work experience
 ======
-* Redapt Inc. – Advanced Analytics Intern
+* Redapt Inc. – Data Scientist & Marketing
   * Used Microsoft Azure Platform for ETL, Data Modelling, Engineering, and Visualization
   * Worked with Python, Pandas, T-SQL, PySpark, Databricks, & Power BI to get actionable insights from data
   * Implemented time series forecasting and machine learning models with ML Studio
@@ -74,3 +75,4 @@ Service and leadership
 ======
 * Volunteered as Soccer Coach at Peter Fewing Soccer Camps
 * Trained and oversaw more than 100 children over numerous week long overnight soccer camps
+* Helped organizing numerous virtual charity events via OfflineOkapi and collected more than $5000 for people in need
