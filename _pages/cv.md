@@ -34,8 +34,6 @@ Work experience
   * Wrote and modified sports articles for newspaper with daily circulation of 175,000+ copies
   * Data analysis and reporting of sports statistics and databases to write articles
 
-
-  
 Skills
 ======
 * Coding Languages
@@ -50,6 +48,12 @@ Skills
 * Data Modeling
   * Relational DB Theory
   * Star Schemas
+
+Service and Leadership
+======
+* Volunteered as Soccer Coach at Peter Fewing Soccer Camps
+* Trained and oversaw more than 100 children over numerous week long overnight soccer camps
+* Helped organizing numerous virtual charity events via OfflineOkapi and collected more than $5000 for people in need
 
 <!---
 
@@ -71,9 +75,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->
-
-Service and Leadership
-======
-* Volunteered as Soccer Coach at Peter Fewing Soccer Camps
-* Trained and oversaw more than 100 children over numerous week long overnight soccer camps
-* Helped organizing numerous virtual charity events via OfflineOkapi and collected more than $5000 for people in need
