@@ -71,7 +71,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->
-Service and leadership
+
+Service and Leadership
 ======
 * Volunteered as Soccer Coach at Peter Fewing Soccer Camps
 * Trained and oversaw more than 100 children over numerous week long overnight soccer camps
