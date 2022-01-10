@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Malte Thesenvitz"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "Love what you do; do what you love."
   location         : "Seattle, US"
   employer         : "Redapt Inc."
