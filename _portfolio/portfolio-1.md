@@ -1,5 +1,5 @@
 ---
-title: "Test - Hopefully the title changes"
+title: "Test2 - Let's see if the image updated"
 excerpt: "I am trying to change the image<br/><img src='/images/joke.png'>"
 collection: portfolio
 ---
