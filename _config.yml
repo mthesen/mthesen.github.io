@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MalteAnalytics"
+title                    : "Malte Thesenvitz - A Sports Data Scientist"
 title_separator          : "-"
 name                     : &name "Malte Thesenvitz"
 description              : &description "A Sports Analytics Blog"
