@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/Abraham_vs_Werner.png'>"
+title: "Abraham vs. Werner."
+excerpt: "Who was worse in the 20/21 season?<br/><img src='/images/Abraham_vs_Werner.png'>"
 collection: portfolio
 ---
 
