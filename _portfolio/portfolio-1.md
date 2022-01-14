@@ -1,7 +1,8 @@
 ---
-title: "Test2 - Let's see if the image updated"
-excerpt: "I am trying to change the image<br/><img src='/images/joke.png'>"
+title: "Decrypting Paul Pogba - La Pioche"
+excerpt: "Where does Paul Pogba receive passes? <br/><img src='/images/hexbins_no_title.png'>"
 collection: portfolio
 ---
 
-This is my first test of editing a portfolio entry. This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+Paul Pogba. Some love him (I'd say worship him), saying his skillset is as broad as it gets. Some hate him, arguing that he has been surfing on a wave of hype for the last 10 years. I think that disparity between opinion alone is reason enough to look at the French Midfielder from a more objective perspective. This piece is part one of a multi-piece series where we look at Paul Pogba and see what is true: Is he worth the hype, or his his skillset as average as that of Darron Gibson (Sorry Darron...)
