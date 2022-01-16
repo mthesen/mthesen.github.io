@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Malte Test 1 after updating Thesenvitz - A Sports Data Scientist"
+title                    : "Malte Thesenvitz - A Sports Data Scientist"
 title_separator          : "-"
 name                     : &name "Malte Thesenvitz"
 description              : &description "A Sports Analytics Blog"
@@ -83,7 +83,7 @@ author:
   name             : "Malte Thesenvitz"
   avatar           : "profile.png"
   bio              : "Love what you do; do what you love."
-  location         : "Seattle, US"
+  location         : "Seattle, WA"
   employer         : "Redapt Inc."
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
