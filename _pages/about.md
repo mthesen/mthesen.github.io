@@ -7,10 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<br>
 
-# Hello and Welcome
+# Hello and Welcome!!
 
-![passing_networks](images/main-passing-networks.png)<br>
+![passing_networks](images/main-passing-networks.png)<br><br>
  Do you want to see how data and technology is changing the sports we love? If so, then you have come to the right place. Follow along as I explore trending topics related to sports analytics, big data, and technology. New content will be dropping in every Thursday.<br>
 
 ## A Data-Driven Sports Analytics Blog
