@@ -1,7 +1,7 @@
 ---
 title: 'Some Ethical Reflectioning'
 date: 2022-01-17
-permalink: /posts/2021/01/shot-maps/
+permalink: /posts/2022/01/ethical-reflections/
 tags:
   - ethics
   - essays
@@ -12,20 +12,22 @@ tags:
 
 What on earth does ethics have to do with sports analytics? Well you have all right to ask this question.
 
-The answer is: absolutely nothing! But since this is *my* website, and luckily I can decide what to upload here. Today I decided to share some of my ethical reflections with you guys. <br> <br> Part of the reason for why I am doing this is because:
+The answer is: absolutely nothing! But since this is *my* website, and luckily I can decide what to upload here. Today I decided to share some of my ethical reflections with you guys.
 
-1. I enjoy reading up on contemporary important topics. 
+Part of the reason for why I am doing this is because:
+
+1. I enjoy reading up on contemporary important topics.
 2. I do retain information much better when I put my thought on paper.
 3. I needed something to put on here (I know. Selfish me..)
-<br>
-<br>
-Anyways. I hope you find the content engaing in some kiind of way. Please reach out to me if you want to rage about anything I misinterpreted. I do love me some **good old feedback**!
 
-Why Managers Need to Think Beyond Profits
-======
+Anyways. I hope you find the content engaing in one way or another. PS: Please reach out to me if you want to rage about anything I misinterpreted. I do love me some **good old feedback**!
 
-But don't worry, you'll see yourself soon :)
-======
+## 1. Why Managers Need to Think Beyond Profits
 
-Exciting times we live in. Go redhawks.
-------
+Milton Friedman. If capitalism had legend cards like FIFA Ultimate Team (proud of this comparison), prime Friedman would sell for upwards of 10 milion. No seriously, the economist had some ideas that changed our world for the better. And I am a big fan.
+
+But going back to Ultimate Team metaphor, even legends don't score every goal. Thus, I did some reading on Friedman's famous argument that all managers should care about is profits. I summarized my findings [here](https://github.com/mthesen/mthesen.github.io/blob/master/sources/ethics/Essay.docx).
+
+## 2. How Corporations Could Improve their Public Affairs
+
+It seems that the number of (social and environmental and financial and pandemical and political and and and) problems on this planet is growing faster and faster. Politicians comment on everything, so do we as individuals on social platforms. But what about our favorite brands, our grocery store chains, our technology provider. Should they get involved as well? Hmm I was not sure. So I did some digging around on nifty forums, in books taht were thicker than I liked, and essays written from people much smarter than me. And the best thing, I put al my thoughts in [here](https://github.com/mthesen/mthesen.github.io/blob/master/sources/ethics/Essay2.docx).
