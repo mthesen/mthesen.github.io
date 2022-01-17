@@ -1,11 +1,12 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Pogba Analysis Part I'
+date: 2022-01-24
+permalink: /posts/2022/01/pogba-part-1/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - pogba
+  - soccer
+  - analytics
+  - multi-series
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+Paul Pogba. I promised to write a piece about him. And you can all relax, it is coming. Mark your calendar. Jan 24th. Paul Pogba analysis part I. Looking forward to your feedback!
